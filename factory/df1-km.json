@@ -1,0 +1,9 @@
+{
+	"name": "df1-km",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "50e2f295-41f6-45d0-ae63-8355ce1e666c",
+		"tenantId": "c50a16a9-ec06-4bc1-b320-40cc795a5988"
+	}
+}
